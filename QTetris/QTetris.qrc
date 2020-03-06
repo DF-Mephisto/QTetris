@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/QTetris">
+        <file>tetris.ttf</file>
+        <file>gameover.jpg</file>
+        <file>tetlogo.png</file>
+        <file>back.jpg</file>
+        <file>theme.mp3</file>
+    </qresource>
+</RCC>
